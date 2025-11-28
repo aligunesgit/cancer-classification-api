@@ -259,8 +259,8 @@ MIT License - detaylar için [LICENSE](LICENSE) dosyasına bakın.
 ## 👨‍💻 Geliştirici
 
 **Ali Güneş**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+- GitHub: [@aligunesgit](https://github.com/aligunesgit)
+- LinkedIn: [Ali GUNES](https://linkedin.com/in/alisun)
 
 ## 🙏 Teşekkürler
 
