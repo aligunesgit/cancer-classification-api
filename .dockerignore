@@ -1,0 +1,14 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+.git
+.gitignore
+notebooks/
+data/
+test_api.py
+.DS_Store
+README.md

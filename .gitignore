@@ -1,0 +1,35 @@
+cat > .gitignore << 'EOF'
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+
+# Model files (büyük dosyalar)
+app/models/*.pkl
+*.h5
+*.pt
+
+# Data files (gizli/büyük dosyalar)
+data/*.txt
+data/*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+notebooks/*.ipynb
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test
+test_api.py
+EOF
